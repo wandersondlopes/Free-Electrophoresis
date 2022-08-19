@@ -1,6 +1,6 @@
 # Free-Electrophoresis
 
-Nesse projeto foi desenvolvido uma plataforma completa para realização de eletroforese por chip.
+Nesse projeto foi desenvolvido uma plataforma completa para realização de eletroforese para chip de microfluídica.
 O projeto descrevendo o software e hardware foram disponibilizados.
 São utilizados componentes de baixo custo e de fácil aquisição no mercado brasileiro.
 
